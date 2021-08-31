@@ -1,0 +1,15 @@
+body ul, ol{
+    color: indigo;
+    border: solid;
+    border-color: pink;
+    width: 200px;
+}
+#a{
+    display: flex;
+}
+
+img{
+    width: 150px;
+    height: 200px;
+    margin-left: 30px;
+}
